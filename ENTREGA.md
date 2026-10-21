@@ -6,5 +6,5 @@ Completa los datos y haz commit de este archivo.
 - **Usuario de GitHub:** TODO
 - **Repositorio:** https://github.com/TODO/mi-portafolio
 - **Tablero (GitHub Projects):** TODO
-  <!-- Pega la URL del tablero. Se ve así: https://github.com/users/jsebastiandq/projects/1 -->
+  <!-- Pega la URL del tablero. Se ve así: https://github.com/users/jsebastiandq/projects/5 -->
 - **Issue del bug (reto):** #

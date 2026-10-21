@@ -25,7 +25,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que estoy en la parte de arriba, cuando hago clic en "Proyectos", entonces la página baja hasta la sección de proyectos.
 - [ ] Dado que hice scroll hasta el final, cuando miro la parte superior de la pantalla, entonces el menú sigue visible.
 
-**Issue:** #
+**Issue:** #1
 
 ---
 
@@ -41,7 +41,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que estoy en la sección "Habilidades", cuando la leo, entonces las habilidades están agrupadas en "Frontend" y "Herramientas".
 - [ ] Dado que estoy en el menú, cuando hago clic en "Habilidades", entonces la página baja hasta esa sección.
 
-**Issue:** #
+**Issue:** #2
 
 ---
 
@@ -53,10 +53,11 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-<!-- TODO: escribe mínimo 3 criterios con el formato Dado / cuando / entonces -->
-- [ ] TODO
+- [ ] Dado que estoy en cualquier sección, cuando bajo hasta el final de la página, entonces veo un pie de página con el texto "© 2026" y mi nombre.
+- [ ] Dado que estoy en el pie de página, cuando hago clic en el enlace de GitHub, entonces se abre mi perfil de GitHub en una pestaña nueva.
+- [ ] Dado que estoy en el pie de página, cuando hago clic en el enlace de LinkedIn, entonces se abre mi perfil de LinkedIn en una pestaña nueva.
 
-**Issue:** #
+**Issue:** #3
 
 ---
 
@@ -68,11 +69,11 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-<!-- TODO: escribe mínimo 3 criterios con el formato Dado / cuando / entonces.
-     Pista: ¿el enlace abre en una pestaña nueva? ¿Qué texto muestra? -->
-- [ ] TODO
+- [ ] Dado que estoy en la sección Proyectos, cuando miro cada tarjeta, entonces veo un enlace con el texto "Ver código".
+- [ ] Dado que estoy en una tarjeta, cuando hago clic en "Ver código", entonces se abre el repositorio de ese proyecto en GitHub en una pestaña nueva.
+- [ ] Dado que abrí el repositorio en otra pestaña, cuando regreso a la pestaña del portafolio, entonces sigo en el mismo lugar de la página.
 
-**Issue:** #
+**Issue:** #4
 
 ---
 
@@ -84,11 +85,11 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-<!-- TODO: escribe mínimo 3 criterios con el formato Dado / cuando / entonces.
-     Pista: ¿qué pasa con las 3 tarjetas en una pantalla de menos de 600 px? -->
-- [ ] TODO
+- [ ] Dado que abro el portafolio en una pantalla de menos de 600 px, cuando llego a Proyectos, entonces las tarjetas se muestran una debajo de la otra.
+- [ ] Dado que estoy en el celular, cuando recorro toda la página, entonces no aparece scroll horizontal.
+- [ ] Dado que estoy en el celular, cuando miro el menú, entonces todos sus enlaces se ven completos y se pueden tocar con el dedo.
 
-**Issue:** #
+**Issue:** #5
 
 ---
 
