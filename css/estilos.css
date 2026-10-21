@@ -85,3 +85,18 @@ html { scroll-behavior: smooth; }
   color: #8250df;
   font-weight: bold;
 }
+
+/* HU-05 · Adaptable al celular */
+@media (max-width: 600px) {
+  .tarjetas,
+  .habilidades {
+    grid-template-columns: 1fr;
+  }
+
+  .menu {
+    flex-wrap: wrap;
+    gap: .8rem;
+  }
+
+  .menu a { padding: .4rem; }
+}
