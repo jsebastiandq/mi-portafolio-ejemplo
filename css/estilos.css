@@ -116,3 +116,6 @@ html { scroll-behavior: smooth; }
   font-size: 1.4rem;
   text-decoration: none;
 }
+
+/* BUG #7 · El menú fijo tapaba el título de la sección al hacer clic en un enlace */
+section { scroll-margin-top: 4rem; }
