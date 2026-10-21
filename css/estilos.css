@@ -37,3 +37,26 @@ h2 { border-bottom: 2px solid #d0d7de; padding-bottom: .3rem; }
   border-radius: 8px;
   padding: 1rem;
 }
+
+/* HU-01 · Menú de navegación fijo */
+.menu {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  background: #ffffff;
+  border-bottom: 1px solid #d0d7de;
+  padding: .8rem 1rem;
+}
+
+.menu a {
+  color: #24292f;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.menu a:hover { color: #8250df; }
+
+html { scroll-behavior: smooth; }
