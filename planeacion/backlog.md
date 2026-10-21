@@ -93,20 +93,16 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 ---
 
-## HU-06 · (RETO) Escribe tu propia historia
+## HU-06 · Botón "volver arriba"
 
-<!-- TODO (RETO): reemplaza el título y escribe tu propia historia de usuario.
-     Debe tener: Historia (Como / quiero / para), Etiquetas, Estimación,
-     mínimo 3 criterios Dado / cuando / entonces y el número de su issue.
-     Ideas: botón "volver arriba", modo oscuro, descargar hoja de vida,
-     formulario de contacto, foto de perfil, sección de estudios. -->
+**Historia:** Como visitante que llegó al final de la página, quiero un botón para volver arriba, para no tener que hacer scroll largo hasta el menú.
 
-**Historia:** TODO
-
-**Etiquetas:** TODO · **Estimación:** TODO
+**Etiquetas:** historia, frontend, prioridad-baja · **Estimación:** S
 
 **Criterios de aceptación:**
 
-- [ ] TODO
+- [ ] Dado que estoy en cualquier parte de la página, cuando miro la esquina inferior derecha, entonces veo un botón con una flecha hacia arriba.
+- [ ] Dado que estoy al final de la página, cuando hago clic en el botón, entonces la página sube hasta el encabezado.
+- [ ] Dado que estoy en el celular, cuando aparece el botón, entonces no tapa el texto del pie de página.
 
-**Issue:** #
+**Issue:** #6
