@@ -100,3 +100,19 @@ html { scroll-behavior: smooth; }
 
   .menu a { padding: .4rem; }
 }
+
+/* HU-06 · Botón volver arriba */
+.volver-arriba {
+  position: fixed;
+  right: 1rem;
+  bottom: 5rem;
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: #8250df;
+  color: #ffffff;
+  font-size: 1.4rem;
+  text-decoration: none;
+}
