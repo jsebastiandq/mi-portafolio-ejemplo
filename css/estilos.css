@@ -77,3 +77,11 @@ html { scroll-behavior: smooth; }
 }
 
 .pie a { color: #ffffff; }
+
+/* HU-04 · Enlace al repositorio */
+.enlace-repo {
+  display: inline-block;
+  margin-top: .5rem;
+  color: #8250df;
+  font-weight: bold;
+}
